@@ -3,7 +3,7 @@
 
 - ❤️ I'm passionate about **programming** and **math**
 
-- 🌱 I’m currently learning **Operating Systems**
+- 🌱 I’m currently learning **Back-end development** and **Operating Systems**
 
 - 👀 I'm curious about computers
 
