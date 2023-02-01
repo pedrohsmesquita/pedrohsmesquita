@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
-<h3 align="center">A brazilian Computer Science student and Cybersecurity enthusiast</h3>
+<h3 align="center">A back-end developer and Cybersecurity enthusiast</h3>
 
-- ❤️ I'm passionate about **programming** and **math**
+- ❤️ I'm passionate about **programming** and **mathematics**
 
-- 🌱 I’m currently learning **Back-end development** and **Operating Systems**
+- 🌱 I’m currently learning **Back-end development** and **Node.js**
 
 - 👀 I'm curious about computers
 
