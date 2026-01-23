@@ -3,7 +3,7 @@
 
 - ❤️ Sou apaixonado pela **computação** e **matemática**
 
-- 🌱 Atualmente, estudo Algoritmos, Álgebra Linear e Arquitetura de Computadores
+- 🌱 Atualmente, estudo Engenharia de Software, Segurança da Informação e desenvolvimento com .NET
 
 - 👀 Tenho curiosidade sobre como as coisas funcionam
 
